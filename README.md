@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/hSL--HaaLEMAAAAC/hello-pikachu.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/hSL--HaaLEMAAAAC/hello-pikachu.gif"  />
 
 ###
 
